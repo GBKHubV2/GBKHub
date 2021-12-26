@@ -29,5 +29,7 @@ local users = {
 1446668955, -- Jayx
 1929469250, -- Zerko
 3085898795, -- Wizzful
+140655479, -- Suspect
+3173625050, -- Elon
 }
 return users
