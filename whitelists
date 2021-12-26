@@ -27,5 +27,6 @@ local users = {
 349452607, -- Liban
 2503438572, -- nay < d1gital
 1446668955, -- Jayx
+1929469250, -- Zerko
 }
 return users
