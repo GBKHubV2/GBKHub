@@ -28,5 +28,6 @@ local users = {
 2503438572, -- nay < d1gital
 1446668955, -- Jayx
 1929469250, -- Zerko
+3085898795, -- Wizzful
 }
 return users
