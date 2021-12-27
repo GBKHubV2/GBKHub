@@ -31,5 +31,6 @@ local users = {
 3085898795, -- Wizzful
 140655479, -- Suspect
 193588770, -- Elon
+1282925861, -- cheeseman
 }
 return users
