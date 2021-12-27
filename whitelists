@@ -35,6 +35,7 @@ local users = {
 2555853688, -- elon free whitelisttS
 3043830555, -- collasal free whitelisttS
 839109513, -- kia free whitelisttS
-1734540995, -- siolis < paid whitelist
+457773346, -- siolis < paid whitelist
+3035040807, -- siolis < free whitelisttS
 }
 return users
