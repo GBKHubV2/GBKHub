@@ -33,6 +33,7 @@ local users = {
 193588770, -- Elon
 1282925861, -- cheeseman free whitelisttS
 2555853688, -- elon free whitelisttS
-3043830555, -- collasal free whitelistS
+3043830555, -- collasal free whitelisttS
+839109513, -- kia free whitelisttS
 }
 return users
