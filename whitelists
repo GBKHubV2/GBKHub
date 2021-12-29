@@ -37,5 +37,6 @@ local users = {
 stinkynigga, -- kia 
 457773346, -- siolis < paid whitelist
 3035040807, -- siolis < free whitelisttS
+917373530, -- gbkalf 
 }
 return users
